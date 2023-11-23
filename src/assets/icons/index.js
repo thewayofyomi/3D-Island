@@ -1,59 +1,56 @@
-import css from './css.svg'
-import express from './express.svg'
-import git from './git.svg'
-import github from './github.svg'
-import html from './html.svg'
-import javascript from './javascript.svg'
-import mongodb from './mongodb.svg'
-import motion from './motion.svg'
-import mui from './mui.svg'
-import nextjs from './nextjs.svg'
-import nodejs from './nodejs.svg'
-import react from './react.svg'
-import redux from './redux.svg'
-import sass from './sass.svg'
-import tailwindcss from './tailwindcss.svg'
-import typescript from './typescript.svg'
-import linkedin from './linkedin.svg'
-import twitter from './twitter.svg'
-import car from './car.svg'
-import estate from './estate.svg'
-import pricewise from './pricewise.svg'
-import snapgram from './snapgram.svg'
-import summiz from './summiz.svg'
-import threads from './threads.svg'
-import arrow from './arrow.svg'
-import contact from './contact.svg'
-import soundon from './soundon.png'
-import soundoff from './soundoff.png'
+import html from "./html.png";
+import css from "./css.png";
+import jquery from "./jquery.png";
+import javascript from "./csharp.png";
+import reactjs from "./reactjs.png";
+import csharp from "./csharp.png";
+import dotnet from "./dotnet.png";
+import sql from "./sql.png";
+import git from "./git.png";
+import typescript from "./typescript.png";
+import tailwind from "./tailwind.png";
+import nextjs from "./nextjs.png";
+import java from "./java.png";
+import github from "./github.png";
+
+import linkedin from "./linkedin.svg";
+import twitter from "./twitter.svg";
+import car from "./car.svg";
+import estate from "./estate.svg";
+import pricewise from "./pricewise.svg";
+import snapgram from "./snapgram.svg";
+import summiz from "./summiz.svg";
+import threads from "./threads.svg";
+import arrow from "./arrow.svg";
+import contact from "./contact.svg";
+import soundon from "./soundon.png";
+import soundoff from "./soundoff.png";
 
 export {
-    css,
-    express,
-    git,
-    github,
-    html,
-    javascript,
-    mongodb,
-    motion,
-    mui,
-    nextjs,
-    nodejs,
-    react,
-    redux,
-    sass,
-    tailwindcss,
-    typescript,
-    linkedin,
-    twitter,
-    car,
-    estate,
-    pricewise,
-    snapgram,
-    summiz,
-    threads,
-    arrow,
-    contact,
-    soundon,
-    soundoff
-}
+  html,
+  css,
+  jquery,
+  javascript,
+  reactjs,
+  csharp,
+  dotnet,
+  sql,
+  git,
+  typescript,
+  tailwind,
+  nextjs,
+  java,
+  github,
+  linkedin,
+  twitter,
+  car,
+  estate,
+  pricewise,
+  snapgram,
+  summiz,
+  threads,
+  arrow,
+  contact,
+  soundon,
+  soundoff,
+};
