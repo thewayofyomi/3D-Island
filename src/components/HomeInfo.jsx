@@ -16,7 +16,7 @@ const renderContent = {
   1: (
     <h1 className="px-8 py-4 mx-5 text-center text-white sm:text-xl sm:leading-snug neo-brutalism-blue">
       Hi, I am <span className="font-semibold">Sean</span> 👋
-      <br />A Software Engineer from Florida.
+      <br />A Software Engineer from New York.
     </h1>
   ),
   2: (
@@ -26,16 +26,20 @@ const renderContent = {
       btnText="Learn more"
     />
   ),
-  3: (<InfoBox
-    text="Created a few projects over the years."
-    link="/projects"
-    btnText="Visit my portfolio"
-  />),
-  4: (<InfoBox
-    text="Are you looking for a developer? I'm just a few keystrokes away."
-    link="/contact"
-    btnText="Let's connect"
-  />),
+  3: (
+    <InfoBox
+      text="Created a few projects over the years."
+      link="/projects"
+      btnText="Visit my portfolio"
+    />
+  ),
+  4: (
+    <InfoBox
+      text="Are you looking for a developer? I'm just a few keystrokes away."
+      link="/contact"
+      btnText="Let's connect"
+    />
+  ),
 };
 
 const HomeInfo = ({ currentStage }) => {
